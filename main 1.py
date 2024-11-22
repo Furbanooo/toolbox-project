@@ -9,7 +9,7 @@ from foret import Foret
 # Fonction pour charger les outils depuis le fichier CSV
 def charger_boite(fichier):
     boite = []
-    with open(fichier, mode='r') as file:
+    with open(fichier, mode='r', encoding='latin-1') as file: 
         csv_reader = csv.DictReader(file, delimiter=';')
         for ligne in csv_reader:
             type_outil = ligne["Type"]
