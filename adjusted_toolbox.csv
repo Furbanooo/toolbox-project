@@ -1,0 +1,6 @@
+Type;Sous-type;Taille;Etat;Emprunt;Date Emprunt;Usage
+Tournevis;plat;2;Dispo;no;;0
+Marteau;standard;1;Dispo;no;;0
+Clé plate;standard;3;Dispo;no;;0
+Perceuse;électrique;;Dispo;no;;0
+Forêt;métal;;Dispo;no;;0

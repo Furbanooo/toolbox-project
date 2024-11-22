@@ -1,0 +1,34 @@
+Type;sous-type;taille;Etat;Emprunt;date emprunt;usage
+Tournevis;plat;2;Dispo;no;;0
+Tournevis;plat;;Dispo;no;;0
+Tournevis;plat;;Dispo;no;;0
+Tournevis;plat;;Dispo;no;;0
+Tournevis;crucifome;;Dispo;no;;0
+Tournevis;crucifome;;Dispo;no;;0
+Tournevis;crucifome;;Dispo;no;;0
+Tournevis;crucifome;;Dispo;no;;0
+Tournevis;crucifome;;Dispo;no;;0
+Clé Plate;;8;Dispo;no;;0
+Clé Plate;;9;Dispo;no;;0
+Clé Plate;;10;Dispo;no;;0
+Clé Plate;;11;Dispo;no;;0
+Clé Platte;;12;Dispo;no;;0
+Clé Plate;;13;Dispo;no;;0
+Clé Plate;;14;Dispo;no;;0
+Clé Plate;;15;Dispo;no;;0
+Clé Plate;;16;Dispo;no;;0
+Clé Plate;;17;Dispo;no;;0
+Clé Plate;;18;Dispo;no;;0
+Clé Plate;;20;Dispo;no;;0
+Clé Plate;;22;Dispo;no;;0
+Clé Plate;;24;Dispo;no;;0
+Marteau;petit;;Dispo;no;;0
+Marteau;moyen;;Dispo;no;;0
+Marteau;grand;;Dispo;no;;0
+Perceuse;;1;Dispo;no;;0
+Forêt;bois;6;;;;0
+Forêt;bois;8;;;;0
+Forêt;bois;10;;;;0
+Forêt;mur;8;;;;0
+Forêt;mur;10;;;;0
+Forêt;mur;12;;;;0
